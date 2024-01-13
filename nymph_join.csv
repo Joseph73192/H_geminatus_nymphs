@@ -1,0 +1,95 @@
+﻿OID_,Unique_ID,Lat,Long,EW_River,Date,County,State,Site_name,Unique_site,HW_mm,HwL_mm,HwL_HW,Epiproct_L_mm,Prementum_W_mm,Prementum_L_mm,Sex,Instar,HUC_8,ACRES,HU_10_NAME,STATES
+58,N-47,32.5502755,-84.514963,East,5/10/2022,Talbot,Georgia,Black Creek,3blac,1.75,0.225,0.129,0.425,1.15,1.125,Unknown,F-2+,3130003,15931.42858,Upper Upatoi Creek,GA
+61,N-68,30.458896,-84.980746,East,5/13/2022,Liberty,Florida,ARB-01 (HANNAH),3abre,1.75,0.3,0.171,0.425,1.2,1.175,Unknown,F-2+,3130011,12997.6298,Stafford Creek-Apalachicola River,FL
+87,N-80,30.458896,-84.980746,East,3/14/2023,Liberty,Florida,Apalachicola Bluffs,4abre,1.8,0.25,0.139,0.425,1.15,1.275,Unknown,F-2+,3130011,12997.6298,Stafford Creek-Apalachicola River,FL
+11,N-23,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,2,0.36,0.18,0.525,1.25,1.3,Unknown,F-2+,3120003,16682.23229,Rocky Comfort Creek,FL
+12,N-25,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,2,0.36,0.18,0.51,1.35,1.4,Unknown,F-2+,3120003,16682.23229,Rocky Comfort Creek,FL
+40,N-66,30.65768,-86.58864,West,3/4/2022,Okaloosa,Florida,Turkey Hen West,JMVthw,2.2,0.45,0.205,0.6,1.5,1.55,Unknown,F-2+,3140103,22617.40946,Lower Shoal River,FL
+63,N-69,30.472,-84.625,East,5/14/2022,Gadsden,Florida,LTSF-01 (HANNAH),3becr,2.2,0.55,0.25,0.575,1.425,1.625,Unknown,F-2+,3120003,16682.23229,Rocky Comfort Creek,FL
+60,N-54,30.458896,-84.980746,East,5/13/2022,Liberty,Florida,ARB-02 (HANNAH),3abre,2.225,0.625,0.281,0.625,1.5,1.625,Unknown,F-2+,3130011,12997.6298,Stafford Creek-Apalachicola River,FL
+84,N-90,30.516443,-86.8593,West,3/13/2023,Santa Rosa,Florida,Boiling Creek,4boic,2.225,0.6,0.27,0.6,1.55,1.4,Unknown,F-2+,3140103,26024.53977,Lower Yellow River,FL
+90,N-91,30.731078,-86.848718,West,4/24/2023,Santa Rosa,Florida,BRSF-01 (Hannah),5tucr,2.25,0.575,0.256,0.55,1.5,1.625,Unknown,F-2+,3140104,22464.87722,Blackwater River,FL
+56,N-49,31.195029,-85.096153,East,5/9/2022,Early,Georgia,Williams Bluff TNC,3wibl,2.275,0.5,0.22,0.575,1.5,1.475,Unknown,F-2+,3130004,16682.13036,Sawhatchee Creek-Chattahoochee River,"AL,GA"
+64,N-44,30.53029,-86.087452,West,5/17/2022,Walton,Florida,Magnolia Creek,3macr,2.42862,0.425,0.175,0.6,1.475,1.5,Unknown,F-2+,3140102,17788.67998,La Grange Bayou-Bear Creek Frontal,FL
+81,N-75,30.63196,-86.77498,West,3/13/2023,Okaloosa,Florida,Milligan Creek,4micr,2.575,0.825,0.32,0.725,1.675,1.7,Unknown,F-2+,3140103,22836.65383,Lower Yellow River,FL
+13,N-27,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,2.592,0.741,0.286,0.65,1.65,1.85,Unknown,F-2+,3120003,16682.23229,Rocky Comfort Creek,FL
+82,N-76,30.63196,-86.77498,West,3/13/2023,Okaloosa,Florida,Milligan Creek,4micr,2.625,0.95,0.362,0.75,1.75,1.75,Unknown,F-2+,3140103,22836.65383,Lower Yellow River,FL
+70,N-60,30.513054,-86.914311,West,5/18/2022,Santa Rosa,Florida,Weaver Steephead downstream,3west,2.65,0.775,0.292,0.775,1.825,1.8,Unknown,F-2+,3140103,24796.96719,Lower Yellow River,FL
+68,N-56,30.513054,-86.914311,West,5/18/2022,Santa Rosa,Florida,Weaver Steephead downstream,3west,2.675,0.825,0.308,0.8,1.75,1.75,Unknown,F-2+,3140103,24796.96719,Lower Yellow River,FL
+79,N-73,30.63196,-86.77498,West,3/13/2023,Okaloosa,Florida,Milligan Creek,4micr,2.675,0.875,0.327,0.775,1.75,1.825,Female,F-2+,3140103,22836.65383,Lower Yellow River,FL
+80,N-74,30.63196,-86.77498,West,3/13/2023,Okaloosa,Florida,Milligan Creek,4micr,2.75,0.9,0.327,0.7,1.85,1.825,Unknown,F-2+,3140103,22836.65383,Lower Yellow River,FL
+85,N-78,30.527003,-86.0553,West,3/14/2023,Walton,Florida,Lafayette Creek WMA: Wolf Creek,4wocr,2.775,1.025,0.369,0.725,1.825,1.85,Unknown,F-2+,3140102,17788.67998,La Grange Bayou-Bear Creek Frontal,FL
+18,N-01,30.725319,-86.794539,West,10/27/2008,Okaloosa,Florida,"Ates Creek, W of Holt, off Bryant Bridge Rd",KTatcr1,2.784,1.05,0.377,0.87,1.782,1.859,Male,F-2+,3140104,22464.87722,Blackwater River,FL
+91,N-93,30.458896,-84.980746,East,5/1/2023,Liberty,Florida,ABRP-01 (Hannah),5abre,2.825,1.075,0.381,0.75,1.825,1.925,Unknown,F-2+,3130011,12997.6298,Stafford Creek-Apalachicola River,FL
+86,N-79,30.458896,-84.980746,East,3/14/2023,Liberty,Florida,Apalachicola Bluffs,4abre,2.85,1.05,0.368,0.775,1.875,1.8,Unknown,F-2+,3130011,12997.6298,Stafford Creek-Apalachicola River,FL
+69,N-58,30.513054,-86.914311,West,5/18/2022,Santa Rosa,Florida,Weaver Steephead downstream,3west,2.8652,0.875,0.305,0.75,1.775,1.8,Unknown,F-2+,3140103,24796.96719,Lower Yellow River,FL
+83,N-77,30.63196,-86.77498,West,3/13/2023,Okaloosa,Florida,Milligan Creek,4micr,2.875,1.025,0.357,0.675,1.825,1.575,Unknown,F-2+,3140103,22836.65383,Lower Yellow River,FL
+35,N-41,30.671312,-86.6613954,West,12/14/2021,Okaloosa,Florida,Milligan Creek,1micr,2.88,1.014,0.352,0.741,2,1.7,Unknown,F-2+,3140103,21656.8307,Lower Yellow River,FL
+41,N-61,30.71803,-86.31504,West,3/8/2022,Walton,Florida,Titi Creek,JMVtiti,2.9029,1.0933,0.377,0.675,1.9981,2.0735,Unknown,F-2+,3140103,31522.36119,Lower Shoal River,FL
+28,N-52,30.610006,-86.42622,West,12/13/2021,Okaloosa,Florida,Little Rocky Creek 2,1lrcr2,2.90482,1.14288,0.393,0.75,1.75,1.625,Unknown,F-2+,3140102,12325.26714,Rocky Creek-Choctawhatchee Bay,FL
+50,N-35,30.585356,-86.403834,West,3/14/2022,Okaloosa,Florida,Little Rocky Creek 1,2lrcr1,2.976,1.08,0.363,0.75,2,2.1,Unknown,F-2+,3140102,12325.26714,Rocky Creek-Choctawhatchee Bay,FL
+51,N-36,30.585356,-86.403834,West,3/14/2022,Okaloosa,Florida,Little Rocky Creek 1,2lrcr1,2.976,1.08,0.363,0.69,2.1,2.1,Unknown,F-2+,3140102,12325.26714,Rocky Creek-Choctawhatchee Bay,FL
+53,N-38,30.671312,-86.6613954,West,3/14/2022,Okaloosa,Florida,Turkey Gobbler Creek,2tgcr,2.976,1.05,0.353,0.663,2,2.05,Unknown,F-2+,3140103,21656.8307,Lower Yellow River,FL
+42,N-62,30.70854,-86.34454,West,3/8/2022,Walton,Florida,Hog Creek,JMVhog,2.9783,0.8294,0.278,0.7,2.04,2.16,Unknown,F-2+,3140103,31522.36119,Lower Shoal River,FL
+34,N-40,30.671312,-86.6613954,West,12/14/2021,Okaloosa,Florida,Milligan Creek,1micr,3,1.053,0.351,0.81,1.89,1.95,Unknown,F-2+,3140103,21656.8307,Lower Yellow River,FL
+29,N-53,30.610006,-86.42622,West,12/13/2021,Okaloosa,Florida,Little Rocky Creek 2,1lrcr2,3.00006,0.975,0.325,0.75,2.0358,1.8096,Unknown,F-2+,3140102,12325.26714,Rocky Creek-Choctawhatchee Bay,FL
+36,N-51,30.725319,-86.794539,West,12/15/2021,Okaloosa,Florida,"Ates Creek, W of Holt, off Bryant Bridge Rd",1atcr,3.04768,1.14288,0.375,0.75,1.925,2,Unknown,F-2+,3140104,22464.87722,Blackwater River,FL
+27,N-17,30.5446,-86.41371,West,12/13/2021,Okaloosa,Florida,"Long Creek, Eglin AFB",1locr,3.072,1.2,0.391,0.81,2.208,2.208,Unknown,F-2+,3140102,12485.19942,Rocky Creek-Choctawhatchee Bay,FL
+52,N-37,30.671312,-86.6613954,West,3/14/2022,Okaloosa,Florida,Turkey Gobbler Creek,2tgcr,3.072,1.175,0.382,0.663,2.1,2.2,Unknown,F-2+,3140103,21656.8307,Lower Yellow River,FL
+55,N-48,31.195029,-85.096153,East,5/9/2022,Early,Georgia,Williams Bluff TNC,3wibl,3.1,1.125,0.363,0.75,1.975,1.975,Unknown,F-2+,3130004,16682.13036,Sawhatchee Creek-Chattahoochee River,"AL,GA"
+26,N-16,30.5446,-86.41371,West,12/13/2021,Okaloosa,Florida,"Long Creek, Eglin AFB",1locr,3.119,1.2,0.385,0.72,2.016,2.016,Unknown,F-2+,3140102,12485.19942,Rocky Creek-Choctawhatchee Bay,FL
+62,N-67,30.472,-84.625,East,5/14/2022,Gadsden,Florida,LTSF-01 (HANNAH),3becr,3.1291,1.2064,0.386,0.775,1.975,1.875,Unknown,F-2+,3120003,16682.23229,Rocky Comfort Creek,FL
+49,N-31,30.63196,-86.77498,West,3/14/2022,Okaloosa,Florida,Milligan Creek,2micr,3.264,1.056,0.324,0.75,2.02,2.02,Unknown,F-2+,3140103,22836.65383,Lower Yellow River,FL
+88,N-89,31.195029,-85.096153,East,3/15/2023,Early,Georgia,Williams Bluff TNC,4wibl,3.2799,1.25,0.381,0.8,2,2.1,Unknown,F-2+,3130004,16682.13036,Sawhatchee Creek-Chattahoochee River,"AL,GA"
+73,N-82,30.513054,-86.914311,West,3/13/2023,Santa Rosa,Florida,Weaver Steephead downstream,4west,3.3,1.875,0.568,0.875,2.15,2.175,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+78,N-87,30.513054,-86.914311,West,3/13/2023,Santa Rosa,Florida,Weaver Steephead downstream,4west,3.325,2.05,0.617,0.85,2.175,2.125,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+75,N-84,30.513054,-86.914311,West,3/13/2023,Santa Rosa,Florida,Weaver Steephead downstream,4west,3.35,1.875,0.56,0.875,2.175,2.05,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+74,N-83,30.513054,-86.914311,West,3/13/2023,Santa Rosa,Florida,Weaver Steephead downstream,4west,3.425,2.025,0.591,0.85,2.15,2.15,Male,F-1,3140103,24796.96719,Lower Yellow River,FL
+77,N-86,30.513054,-86.914311,West,3/13/2023,Santa Rosa,Florida,Weaver Steephead downstream,4west,3.45,2.025,0.587,0.925,2.25,2.35,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+76,N-85,30.513054,-86.914311,West,3/13/2023,Santa Rosa,Florida,Weaver Steephead downstream,4west,3.475,2.075,0.597,0.9,2.225,2.4,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+8,N-20,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,3.552,2.208,0.622,0.99,2.324,2.496,Unknown,F-1,3120003,16682.23229,Rocky Comfort Creek,FL
+9,N-24,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,3.599,2.3,0.639,1,2.496,2.399,Male,F-1,3120003,16682.23229,Rocky Comfort Creek,FL
+10,N-26,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,3.648,2.25,0.617,1.05,3.456,2.592,Male,F-1,3120003,16682.23229,Rocky Comfort Creek,FL
+92,N-94,30.458896,-84.980746,East,5/1/2023,Liberty,Florida,ABRP-01 (Hannah),5abre,3.7,2.225,0.601,0.875,2.325,2.3,Male,F-1,3130011,12997.6298,Stafford Creek-Apalachicola River,FL
+59,N-70,30.733,-86.758,West,5/11/2022,Okaloosa,Florida,Bone Creek (HANNAH),3bocr,3.7323,2.1489,0.576,0.925,2.3751,2.4128,Male,F-1,3140104,20341.88096,Blackwater River,FL
+65,N-55,30.513054,-86.914311,West,5/18/2022,Santa Rosa,Florida,Weaver Steephead downstream,3west,3.7323,2.0358,0.545,0.9802,2.4505,2.262,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+72,N-72,30.7841443,-86.787084,West,3/12/2023,Okaloosa,Florida,Blackwater River,4blri,3.7323,2.2243,0.596,0.7,2.225,2.275,Female,F-1,3140104,23052.56576,Blackwater River,FL
+46,N-32,30.63196,-86.77498,West,3/14/2022,Okaloosa,Florida,Milligan Creek,2micr,3.74,2.112,0.565,1.1,2.3,2.3,Unknown,F-1,3140103,22836.65383,Lower Yellow River,FL
+33,N-43,30.671312,-86.6613954,West,12/14/2021,Okaloosa,Florida,Milligan Creek,1micr,3.744,2.35,0.628,1.014,2.4,2.208,Female,F-1,3140103,21656.8307,Lower Yellow River,FL
+66,N-57,30.513054,-86.914311,West,5/18/2022,Santa Rosa,Florida,Weaver Steephead downstream,3west,3.77,2.1489,0.57,0.9,2.4882,2.639,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+32,N-42,30.671312,-86.6613954,West,12/14/2021,Okaloosa,Florida,Milligan Creek,1micr,3.796,2.15,0.566,0.975,2.45,2.4,Female,F-1,3140103,21656.8307,Lower Yellow River,FL
+3,N-06,30.786522,-86.797717,West,3/16/1973,Santa Rosa,Florida,"Lighter Knot Cr., Blackwater River SF",KTlkc1,3.84,2.4,0.625,1.05,2.592,2.592,Female,F-1,3140104,23052.56576,Blackwater River,FL
+43,N-28,30.540894,-87.789871,West,3/13/2022,Baldwin,Alabama,Perone Branch,2pebr,3.84,2.35,0.612,0.93,2.304,2.4,Unknown,F-1,3160205,42273.96586,Fish River-Frontal Mobile Bay,AL
+44,N-29,30.540894,-87.789871,West,3/13/2022,Baldwin,Alabama,Perone Branch,2pebr,3.84,2.4,0.625,1.05,2.4,2.4,Unknown,F-1,3160205,42273.96586,Fish River-Frontal Mobile Bay,AL
+47,N-33,30.585356,-86.403834,West,3/14/2022,Okaloosa,Florida,Little Rocky Creek 1,2lrcr1,3.84,2.25,0.586,0.975,2.496,2.496,Unknown,F-1,3140102,12325.26714,Rocky Creek-Choctawhatchee Bay,FL
+48,N-34,30.585356,-86.403834,West,3/14/2022,Okaloosa,Florida,Little Rocky Creek 1,2lrcr1,3.84,2.3,0.599,0.9,2.496,2.4,Male,F-1,3140102,12325.26714,Rocky Creek-Choctawhatchee Bay,FL
+67,N-59,30.513054,-86.914311,West,5/18/2022,Santa Rosa,Florida,Weaver Steephead downstream,3west,3.8454,2.1489,0.559,0.9425,2.4505,2.5259,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+71,N-71,30.7841443,-86.787084,West,3/12/2023,Okaloosa,Florida,Blackwater River,4blri,3.8454,2.3374,0.608,0.925,2.35,2.375,Female,F-1,3140104,23052.56576,Blackwater River,FL
+54,N-45,30.540894,-87.789871,West,5/7/2022,Baldwin,Alabama,Perone Branch,3pebr,3.85722,2.1112,0.547,0.925,2.25,2.262,Female,F-1,3160205,42273.96586,Fish River-Frontal Mobile Bay,AL
+57,N-46,32.5502755,-84.514963,East,5/10/2022,Talbot,Georgia,Black Creek,3blac,3.9,2.31,0.592,0.95,2.46,2.55,Male,F-1,3130003,15931.42858,Upper Upatoi Creek,GA
+94,N-88,30.513054,-86.914311,West,5/13/2023,Santa Rosa,Florida,Weaver Steephead downstream,5west,3.9585,2.5259,0.638,0.95,2.524,2.81,Female,F-1,3140103,24796.96719,Lower Yellow River,FL
+45,N-30,30.63196,-86.77498,West,3/14/2022,Okaloosa,Florida,Milligan Creek,2micr,3.96,2.39,0.604,1,2.4,2.52,Unknown,F-1,3140103,22836.65383,Lower Yellow River,FL
+93,N-92,30.5000828,-84.9516971,East,5/11/2023,Liberty,Florida,TSP-01 (Hannah),5tsp,3.9962,2.5259,0.632,0.95,2.2243,2.4505,Female,F-1,3130011,10932.77596,Stafford Creek-Apalachicola River,FL
+25,N-15,30.5446,-86.41371,West,12/13/2021,Okaloosa,Florida,"Long Creek, Eglin AFB",1locr,4.557,4.704,1.032,1.25,2.793,2.87,Male,F-0,3140102,12485.19942,Rocky Creek-Choctawhatchee Bay,FL
+17,N-05,30.725319,-86.794539,West,10/27/2008,Okaloosa,Florida,"Ates Creek, W of Holt, off Bryant Bridge Rd",KTatcr1,4.678,4.558,0.974,1.2,2.688,2.88,Male,F-0,3140104,22464.87722,Blackwater River,FL
+4,N-18,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,4.704,4.851,1.031,1.25,2.793,2.72,Male,F-0,3120003,16682.23229,Rocky Comfort Creek,FL
+6,N-21,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,4.704,4.704,1,1.25,2.832,2.88,Male,F-0,3120003,16682.23229,Rocky Comfort Creek,FL
+7,N-22,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,4.704,4.704,1,1.209,2.688,2.976,Male,F-0,3120003,16682.23229,Rocky Comfort Creek,FL
+31,N-50,30.671312,-86.6613954,West,12/14/2021,Okaloosa,Florida,Turkey Gobbler Creek,1tgcr,4.8488,4.762,0.982,1.2,2.90482,3.0953,Male,F-0,3140103,21656.8307,Lower Yellow River,FL
+5,N-19,30.479595,-84.62586,East,2/8/2004,Gadsden,Florida,"Bear Creek, Hwy 267, W of Lake Talquin",KTbecr1,4.851,4.998,1.03,1.25,2.793,2.94,Female,F-0,3120003,16682.23229,Rocky Comfort Creek,FL
+1,N-07,30.786522,-86.797717,West,3/16/1973,Santa Rosa,Florida,"Lighter Knot Cr., Blackwater River SF",KTlkc1,4.918,5.038,1.024,1.2,2.88,2.999,Female,F-0,3140104,23052.56576,Blackwater River,FL
+15,N-03,30.725319,-86.794539,West,10/27/2008,Okaloosa,Florida,"Ates Creek, W of Holt, off Bryant Bridge Rd",KTatcr1,4.992,4.992,1,1.25,2.879,2.759,Male,F-0,3140104,22464.87722,Blackwater River,FL
+20,N-10,30.4478,-85.84164,West,2/5/2013,Washington,Florida,"Pine Log Creek, Hwy 20",KTplc1,4.992,5.184,1.038,1.17,3.072,2.976,Male,F-0,3140203,37217.52432,Pine Log Creek,FL
+22,N-12,30.4478,-85.84164,West,2/5/2013,Washington,Florida,"Pine Log Creek, Hwy 20",KTplc1,4.992,5.184,1.038,1.17,2.88,3.072,Male,F-0,3140203,37217.52432,Pine Log Creek,FL
+23,N-13,30.4478,-85.84164,West,2/5/2013,Washington,Florida,"Pine Log Creek, Hwy 20",KTplc1,4.992,5.28,1.058,1.17,2.88,2.88,Male,F-0,3140203,37217.52432,Pine Log Creek,FL
+2,N-08,30.786522,-86.797717,West,3/16/1973,Santa Rosa,Florida,"Lighter Knot Cr., Blackwater River SF",KTlkc1,4.998,5.145,1.029,1.239,2.976,3.072,Female,F-0,3140104,23052.56576,Blackwater River,FL
+14,N-02,30.725319,-86.794539,West,10/27/2008,Okaloosa,Florida,"Ates Creek, W of Holt, off Bryant Bridge Rd",KTatcr1,5.038,5.158,1.024,1.25,2.976,2.976,Female,F-0,3140104,22464.87722,Blackwater River,FL
+16,N-04,30.725319,-86.794539,West,10/27/2008,Okaloosa,Florida,"Ates Creek, W of Holt, off Bryant Bridge Rd",KTatcr1,5.038,4.798,0.952,1.209,2.784,3.168,Female,F-0,3140104,22464.87722,Blackwater River,FL
+30,N-39,30.671312,-86.6613954,West,12/14/2021,Okaloosa,Florida,Milligan Creek,1micr,5.038,4.918,0.976,1.25,2.88,2.88,Female,F-0,3140103,21656.8307,Lower Yellow River,FL
+39,N-65,30.65768,-86.58864,West,3/4/2022,Okaloosa,Florida,Turkey Hen West,JMVthw,5.04772,5.04772,1,1.125,3,3.0953,Male,F-0,3140103,22617.40946,Lower Shoal River,FL
+89,N-81,30.472,-84.625,East,3/16/2023,Gadsden,Florida,Bear Creek,4becr,5.1649,5.4665,1.058,1.1,2.9406,3.016,Male,F-0,3120003,16682.23229,Rocky Comfort Creek,FL
+24,N-14,30.4478,-85.84164,West,2/5/2013,Washington,Florida,"Pine Log Creek, Hwy 20",KTplc1,5.184,5.28,1.019,1.17,3.072,2.976,Male,F-0,3140203,37217.52432,Pine Log Creek,FL
+37,N-63,30.65768,-86.58864,West,3/4/2022,Okaloosa,Florida,Turkey Hen West,JMVthw,5.19058,5.14296,0.991,1.125,2.9783,2.9783,Female,F-0,3140103,22617.40946,Lower Shoal River,FL
+19,N-09,30.4478,-85.84164,West,2/5/2013,Washington,Florida,"Pine Log Creek, Hwy 20",KTplc1,5.28,5.28,1,1.326,3.072,3.072,Female,F-0,3140203,37217.52432,Pine Log Creek,FL
+21,N-11,30.4478,-85.84164,West,2/5/2013,Washington,Florida,"Pine Log Creek, Hwy 20",KTplc1,5.28,5.28,1,1.209,2.976,3.072,Female,F-0,3140203,37217.52432,Pine Log Creek,FL
+38,N-64,30.65768,-86.58864,West,3/4/2022,Okaloosa,Florida,Turkey Hen West,JMVthw,5.33344,5.66678,1.063,1.1,2.9406,3.3553,Female,F-0,3140103,22617.40946,Lower Shoal River,FL
